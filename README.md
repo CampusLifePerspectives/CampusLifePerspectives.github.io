@@ -15,7 +15,7 @@ With this theme, we take interest in where you go to be social, connect or just 
 - _What is a good meeting spot?_
 - _What is a good place to hang out?_
 - _Where do you often run into people you know?_
-- _Where do you and your fellow students feel at home?_
+- _Where do you feel at home on campus?_
 
 ### Study Activities
 This theme is about the places around Lyngby Campus (inside or outside) you find is good for studying.
