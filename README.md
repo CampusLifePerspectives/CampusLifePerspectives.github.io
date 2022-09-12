@@ -2,6 +2,7 @@
 <p align="center">  
 <img src="images/LP INFOGRAPHICS(1).png" width="300"> 
 </p> 
+
 The Campus Life Perspectives project is an experiment of doing data driven architectural evaluation of DTU Campus, Lyngby. The aim is to gain insight into how students experience the physical surroundings from three different perspectives: _Social Life_, _Study Activities_, _Motivation & Inspiration_.
 Front and center to the project is the Urban Belonging app, which allows you to share photos of your favorite locations on campus and to react to those of others.
 
