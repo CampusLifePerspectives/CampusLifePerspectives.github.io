@@ -49,7 +49,7 @@ Once you have downloaded the app, create a new user using your DTU email. This i
 Once you have signed in to the app, you should be invited to the four Groups soon after. As adding new users is a manual process on our side, we will strive to add new users each day at 2PM. If you have any problems signing up or if you haven’t been added to the group yet, feel free to write us at <campuslifeperspectives@gmail.com>
 
 <p align="center">  
-  <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
+  <img src="images/Your Groups.jpg" width="150"> <img src="images/Photo Tasks.jpg" width="150"> 
 </p>
 
 ### Read more about how it works [here!](https://campuslifeperspectives.github.io/More-about-the-App/)
