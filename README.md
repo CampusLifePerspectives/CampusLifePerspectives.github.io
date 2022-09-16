@@ -8,7 +8,7 @@ In light of the [Campus Renewal Project](https://campusudvikling.dtu.dk/), you h
 - Take a couple of pictures at campus *(at least one per thematic group)*
 - Anwser 2 minute survey *(literally four questions)*
 
-#### During September, participants who complete tasks, will be eligible for free coffee at [our stand](https://campuslifeperspectives.github.io/Coffee). By then end, if all tasks have been completed you get a chance to win a gift card worth 300,- DKK
+#### During September, participants who complete tasks, will be eligible for free coffee at [our stand](https://campuslifeperspectives.github.io/Coffee). By then end, if all tasks have been completed you get a chance to win a gift card worth 300,- DKK for Polyteknisk Boghandel
 
 <p align="center">
 <img src="images/LP INFOGRAPHICS.svg">
