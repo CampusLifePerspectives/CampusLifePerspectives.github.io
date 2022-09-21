@@ -14,11 +14,10 @@ In light of the [Campus Renewal Project](https://campusudvikling.dtu.dk/), you h
 <img src="images/LP INFOGRAPHICS.svg">
 </p> 
 
-# How do I sign up?
-The only thing you need to participate, is the Urban Belonging App.
-- [Get the App for Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)
-- [Get the App for IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
+# Download the app!
 
+- ## [Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)
+- ## [IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
 
 Once you have downloaded the app, create a new user using your DTU email.
 <p align="center">
